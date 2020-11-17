@@ -46,8 +46,7 @@ I'm a 18 years old French boy :fr: which doing home schooling.
 
 <p align="center">
   <a href="https://github.com/Jupiter007-43">
-    <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Jupiter007-43&theme=gruvbox&show_icons=true&count_private=true" />
-    <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jupiter007-43&layout=compact&theme=gruvbox&langs_count=5&count_private=true" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Jupiter007-43&theme=gruvbox&show_icons=true&count_private=true" />
   </a>
 </p>
 
