@@ -10,7 +10,7 @@ I'm a 19 years old French boy :fr: which doing home schooling.
 - :sunglasses: Contribute to **<a href="https://github.com/ubuntu/yaru">Yaru</a>**
 - :camera: Taking some **pictures**
 - :telescope: **Astronomy**, **universe** and **stars**
-- :video_game: Playing **video games** (I love The Legend of Zelda and Splatoon)
+- :video_game: Playing **video games** (I love **The Legend of Zelda** and **Splatoon**)
 - :headphones: Listen to **music**
 
 ## My work
