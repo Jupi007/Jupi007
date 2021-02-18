@@ -10,25 +10,8 @@ I'm a 19 years old French boy :fr: which doing home schooling.
 - :sunglasses: Contribute to **<a href="https://github.com/ubuntu/yaru">Yaru</a>**
 - :camera: Taking some **pictures**
 - :telescope: **Astronomy**, **universe** and **stars**
-- :video_game: Playing **video games**
+- :video_game: Playing **video games** (I love The Legend of Zelda and Splatoon)
 - :headphones: Listen to **music**
-
-<!-- <details>
-  <summary>More infos</summary>
-  <h2>My top 3 favorite game universes</h2>
-    <ol>
-      <li>The Legend of Zelda</li>
-      <li>Splatoon</li>
-      <li>Professor Layton</li>
-    </ol>
-  <h2>My favorite video games</h2>
-    <ol>
-      <li>The Legend of Zelda: Breath of the Wild</li>
-      <li>The Legend of Zelda: Majora's Mask</li>
-      <li>The Legend of Zelda: Ocarina of Time</li>
-      <li>Splatoon 2</li>
-    </ol>
-</details>-->
 
 ## My work
 
