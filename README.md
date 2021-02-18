@@ -41,7 +41,6 @@ I'm a 19 years old French boy :fr: which doing home schooling.
   <span><img src="images/sass.png"></span>
   <span><img src="images/javascript.png"></span>
   <span><img src="images/typescript.png"></span>
-  <span><img src="images/webgl.png"></span>
   <span><img src="images/php.png"></span>
   <span><img src="images/symfony.png"></span>
   <span><img src="images/prestashop.png"></span>
