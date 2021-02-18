@@ -33,8 +33,8 @@ I'm a 19 years old French boy :fr: which doing home schooling.
 ## My work
 
 
-- **<a href="https://github.com/Jupiter007-43/TLOZ-js">TLOZ-js</a>** a **The legend of Zelda** like 2D game, written in **JS** and **Canvas2D**, running in any modern web browser.
-- **<a href="https://github.com/Jupiter007-43/csstart">CSStart</a>** a css framework (just like Bootstrap) with **SASS** super powers and **dark theme** support!
+- **<a href="https://github.com/Jupi007/TLOZ-js">TLOZ-js</a>** a **The legend of Zelda** like 2D game, written in **JS** and **Canvas2D**, running in any modern web browser.
+- **<a href="https://github.com/Jupi007/csstart">CSStart</a>** a css framework (just like Bootstrap) with **SASS** super powers and **dark theme** support!
 - **<a href="https://github.com/ubuntu/libreoffice-style-yaru-fullcolor">Libreoffice Yaru</a>** a fullcolor icon pack for **Libreoffice** of the awesome Yaru theme.
 - **<a href="https://lepetitastro.fr/">Le petit astro</a>** my personal website (in French), which talks about astronomy. Made with **Symfony**, and **CSStart**.
 - Also a bit contributing to **<a href="https://github.com/ubuntu/yaru">Yaru</a>**, the awesome default **Ubuntu** theme.
@@ -47,8 +47,8 @@ I'm a 19 years old French boy :fr: which doing home schooling.
 <hr>
 
 <p align="center">
-  <a href="https://github.com/Jupiter007-43">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Jupiter007-43&theme=gruvbox&show_icons=true&count_private=true" />
+  <a href="https://github.com/Jupi007">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Jupi007&theme=gruvbox&show_icons=true&count_private=true" />
   </a>
 </p>
 
