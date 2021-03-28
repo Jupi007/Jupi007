@@ -17,6 +17,8 @@ I'm a 19 years old French boy :fr: which doing home schooling.
 
 
 - **<a href="https://github.com/Jupi007/TLOZ-js">TLOZ-js</a>** a **The legend of Zelda** like 2D game, written in **JS** and **Canvas2D**, running in any modern web browser.
+- **<a href="https://github.com/Jupi007/Lumos">Lumos</a>** an ultra-lightweight lightbox in pure javscript with css animation.
+- **<a href="https://github.com/Jupi007/SLighter">SLighter</a>** an ultra-lightweight slideshow in pure javscript with css animation.
 - **<a href="https://github.com/Jupi007/csstart">CSStart</a>** a css framework (just like Bootstrap) with **SASS** super powers and **dark theme** support!
 - **<a href="https://github.com/ubuntu/libreoffice-style-yaru-fullcolor">Libreoffice Yaru</a>** a fullcolor icon pack for **Libreoffice** of the awesome Yaru theme.
 - **<a href="https://lepetitastro.fr/">Le petit astro</a>** my personal website (in French), which talks about astronomy. Made with **Symfony**, and **CSStart**.
