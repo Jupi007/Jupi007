@@ -34,6 +34,7 @@ I'm a 19 years old French boy :fr: which doing home schooling.
 <p align="center">
   <a href="https://github.com/Jupi007">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Jupi007&theme=gruvbox&show_icons=true&count_private=true" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jupi007&hide_border=true&theme=gruvbox&layout=compact" />
   </a>
 </p>
 
