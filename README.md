@@ -21,13 +21,13 @@ I'm a 19 years old French boy :fr: which doing home schooling.
 - **<a href="https://github.com/Jupi007/SLighter">SLighter</a>** an ultra-lightweight slideshow in pure javscript with css animation.
 - **<a href="https://github.com/Jupi007/csstart">CSStart</a>** a css framework (just like Bootstrap) with **SASS** super powers and **dark theme** support!
 - **<a href="https://github.com/ubuntu/libreoffice-style-yaru-fullcolor">Libreoffice Yaru</a>** a fullcolor icon pack for **Libreoffice** of the awesome Yaru theme.
-- **<a href="https://lepetitastro.fr/">Le petit astro</a>** my personal website (in French), which talks about astronomy. Made with **Symfony**, and **CSStart**.
 - Also a bit contributing to **<a href="https://github.com/ubuntu/yaru">Yaru</a>**, the awesome default **Ubuntu** theme.
 
-**Previous projects:**
+## My websites
 
-- <a href="https://www.paleo.fr/">Paleo.fr</a>, my father's website, which talks about his work.
-- <a href="https://boutique.paleo.fr/fr/">Boutique.paleo.fr</a>, my father's online shop.
+- **<a href="https://lepetitastro.fr/">Le petit astro</a>** my personal website (in French), which talks about astronomy. Made with **Symfony**, and **CSStart**.
+- **<a href="https://www.paleo.fr/">Paleo.fr</a>**, my father's website, which talks about his work.
+- **<a href="https://boutique.paleo.fr/fr/">Boutique.paleo.fr</a>**, my father's online shop _(needs some big rework)_.
 
 <hr>
 
