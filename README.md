@@ -1,6 +1,6 @@
 <h1 align="center">Hello world, I'm Paul K. 👋</h1>
 
-I'm a 20 years old French boy :fr: which doing home schooling.
+I'm a 20 years old French boy :fr:
 
 ## My passions
 
