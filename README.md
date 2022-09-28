@@ -23,7 +23,7 @@ I'm a 20 years old French boy :fr:
 - **<a href="https://github.com/ubuntu/libreoffice-style-yaru-fullcolor">Libreoffice Yaru</a>** a fullcolor icon pack for **Libreoffice** of the awesome Yaru theme.
 - Also contributing to **<a href="https://github.com/ubuntu/yaru">Yaru</a>**, the awesome default **Ubuntu** theme.
 
-## My websites
+## Some of my websites
 
 - **<a href="https://lepetitastro.fr/">Le petit astro</a>** my personal website (in French), which talks about astronomy. Made with **Symfony**, and **CSStart**.
 - **<a href="https://www.paleo.fr/">Paleo.fr</a>**, my father's website, which talks about his work.
