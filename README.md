@@ -20,7 +20,7 @@ I'm a 20 years old French boy :fr:
 - **<a href="https://github.com/Jupi007/Lumos">Lumos</a>** an ultra-lightweight lightbox in pure javscript with css animation.
 - **<a href="https://github.com/Jupi007/SLighter">SLighter</a>** an ultra-lightweight slideshow in pure javscript with css animation.
 
-## Yaru :sunglasses: and flutter 💙
+### Yaru :sunglasses: and flutter 💙
 
 - **<a href="https://github.com/ubuntu/libreoffice-style-yaru-fullcolor">Libreoffice Yaru</a>** a fullcolor icon pack for **Libreoffice** of the awesome Yaru theme.
 - **<a href="https://github.com/ubuntu/yaru">Yaru</a>**, the awesome default **Ubuntu** theme.
@@ -30,7 +30,7 @@ I'm a 20 years old French boy :fr:
 - **<a href="https://github.com/ubuntu-flutter-community/settings">Settings</a>**, Gnome settings app built with Flutter.
 - **<a href="https://github.com/ubuntu-flutter-community/software">Software</a>**, Ubuntu software app built with Flutter.
 
-## Some of my websites
+### Some of my websites
 
 - **<a href="https://villeauvergne.org/">Villeauvergne.org</a>**, my latest project, a website for a local association.
 - **<a href="https://lepetitastro.fr/">Le petit astro</a>** my personal website (in French), which talks about astronomy. Made with **Symfony**, and **CSStart**.
