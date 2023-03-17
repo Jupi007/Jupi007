@@ -1,6 +1,6 @@
 <h1 align="center">Hello world, I'm Paul K. 👋</h1>
 
-I'm a 20 years old French boy :fr:
+I'm a 21 years old French boy :fr:
 
 ## My passions
 
@@ -32,10 +32,10 @@ I'm a 20 years old French boy :fr:
 
 ### Some of my websites
 
-- **<a href="https://villeauvergne.org/">Villeauvergne.org</a>**, my latest project, a website for a local association.
-- **<a href="https://lepetitastro.fr/">Le petit astro</a>** my personal website (in French), which talks about astronomy. Made with **Symfony**, and **CSStart**.
-- **<a href="https://www.paleo.fr/">Paleo.fr</a>**, my father's website, which talks about his work.
-- **<a href="https://boutique.paleo.fr/fr/">Boutique.paleo.fr</a>**, my father's online shop.
+- **<a href="https://villeauvergne.org/">Villeauvergne.org</a>**, a website for a local association.
+- **<a href="https://lepetitastro.fr/">Le petit astro</a>** my personal website, **(old project)**.
+- **<a href="https://www.paleo.fr/">Paleo.fr</a>**, my father's website, which talks about his work, **(old project)**.
+- **<a href="https://boutique.paleo.fr/fr/">Boutique.paleo.fr</a>**, my father's online shop, **(old project)**.
 
 <hr>
 
