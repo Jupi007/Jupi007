@@ -17,8 +17,6 @@ I'm a 21 years old French boy :fr:
 
 
 - **<a href="https://github.com/Jupi007/TLOZ-js">TLOZ-js</a>** a **The legend of Zelda** like 2D game, written in **JS** and **Canvas2D**, running in any modern web browser.
-- **<a href="https://github.com/Jupi007/Lumos">Lumos</a>** an ultra-lightweight lightbox in pure javscript with css animation.
-- **<a href="https://github.com/Jupi007/SLighter">SLighter</a>** an ultra-lightweight slideshow in pure javscript with css animation.
 
 ### Yaru :sunglasses: and flutter 💙
 
