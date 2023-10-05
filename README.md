@@ -15,7 +15,7 @@ I'm a 21 years old French boy :fr:
 
 ## My work
 
-
+- **<a href="https://github.com/Jupi007/snake_ai">Snake AI</a>** an experimentation around the creation of an _artificial intelligence_ **(NEAT AI)** for a Snake game, using **Dart** and **Flutter**.
 - **<a href="https://github.com/Jupi007/TLOZ-js">TLOZ-js</a>** a **The legend of Zelda** like 2D game, written in **JS** and **Canvas2D**, running in any modern web browser.
 
 ### Yaru :sunglasses: and flutter 💙
