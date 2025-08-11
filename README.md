@@ -1,6 +1,4 @@
-<h1 align="center">Hello world, I'm Paul K. 👋</h1>
-
-I'm a 22 years old French boy :fr:
+<h1 align="center">Hello world, I'm Paul K. 👋:fr:</h1>
 
 ## My passions
 
@@ -30,9 +28,10 @@ I'm a 22 years old French boy :fr:
 
 ### Some of my websites
 
+- **<a href="https://www.hotel-auvergne-saintroch.com/">hotel-auvergne-saintroch.com</a>**, a website for an hotel.
 - **<a href="https://villeauvergne.org/">Villeauvergne.org</a>**, a website for a local association.
-- **<a href="https://lepetitastro.fr/">Le petit astro</a>** my personal website, **(old project)**.
-- **<a href="https://www.paleo.fr/">Paleo.fr</a>**, my father's website, which talks about his work, **(old project)**.
+- **<a href="https://www.paleo.fr/">Paleo.fr</a>**, my father's website, which talks about his work.
+- **<a href="https://neo.lepetitastro.fr/">Le petit astro</a>** my personal website, **(old project)**.
 - **<a href="https://boutique.paleo.fr/fr/">Boutique.paleo.fr</a>**, my father's online shop, **(old project)**.
 
 <hr>
